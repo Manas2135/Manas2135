@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manas Shekhar Tiwari</h1>
 <h3 align="center">Aspiring SDE | React · Node.js · JavaScript · DSA | ECE @ BIT Mesra '27</h3>
 
-- 🔭 I'm currently focused on **DSA + full-stack development (React/Node)** and preparing for SDE placements
+- 🔭 I'm focused on **DSA + full-stack development (React/Node) and Wordpress** and preparing for SDE placements.
 - 👨‍💻 Portfolio: [manas2135.github.io/ManasPortfolio](https://manas2135.github.io/ManasPortfolio/)
 - 📄 Resume: [View here](https://drive.google.com/file/d/1c_48AEDbseAa0yeTmlGQ1MtT7yaeIsgo/view?usp=sharing)
 - 📫 Reach me at **manasshekhartiwari21@gmail.com**
